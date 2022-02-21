@@ -1,0 +1,33 @@
+body{
+  background-color: lightgrey;
+}
+
+h3{
+  text-decoration: underline;
+  background-color: navy;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+ol li{
+  list-style-type: upper-roman;
+}
+
+ul li{
+  list-style-type: circle;
+}
+
+.def{
+  font-weight:bold;
+}
+
+.tab{
+  text-indent: 20px;
+}
+
+dt{
+  font-size: 15px;
+}
